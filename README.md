@@ -1,1 +1,2 @@
-## This is the Git tutorials
+## This is the Git tutorials by me
+## I am amazing
