@@ -1,2 +1,2 @@
 ## This is the Git tutorials by me
-## I am amazing
+## I am awesome
