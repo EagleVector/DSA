@@ -1,2 +1,2 @@
-## This is the Git tutorials by me
-## I am amazing
+## This repo is dedicated to DSA Practise Questions
+## Mentor - Priya Bhatia
